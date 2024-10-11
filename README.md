@@ -30,7 +30,7 @@ The dataset contains information about sales transactions, customers, products, 
   * Geographical Analysis: Examined sales distribution across regions and states, with a focus on standout performers like California.
   * Numerical Columns: Generated boxplots and histograms to understand the distribution and variability of numerical data such as Sales, Profit, and Discount.
 * **3. Data Visualization in Python**
-Visualized key insights using pie charts, boxplots, and histograms to identify patterns in sales and shipping preferences.
+  Visualized key insights using pie charts, boxplots, and histograms to identify patterns in sales and shipping preferences.
 * **4. Advanced Visualizations in Tableau**
   * Sales by Category: Technology contributes the most to sales (36.7%), followed by Furniture (32.1%) and Office Supplies (31.2%).
   * Sales by Segment: Balanced sales across different customer segments, with Technology performing well across all segments.
