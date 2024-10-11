@@ -19,7 +19,7 @@ The dataset contains information about sales transactions, customers, products, 
 * **Sales, Profit, and Quantity**: Metrics for evaluating sales performance.
 
 ## Project Steps
-* **1. Data Importing and Cleaning**
+**1. Data Importing and Cleaning**
   * Imported the dataset and handled missing values by dropping nulls.
   * Removed duplicated rows to ensure data quality.
   * Converted date columns to a proper datetime format for temporal analysis.
